@@ -1,6 +1,6 @@
-.App {
+/* .App {
   text-align: center;
-}
+} */
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +35,23 @@
   to {
     transform: rotate(360deg);
   }
+}
+.checkBoxImg{
+  width: 30px;
+  height: 30px;  
+}
+.imgProduct{
+  width: 100px;
+  height: 100px;
+  display: block;  
+}
+.slider-container{
+  margin: 10px auto;
+}
+.bg-primary{
+  background-color: #FE980F;
+  color: #fff;
+}
+.cart_quantity_input{
+  width: 50px;
 }
